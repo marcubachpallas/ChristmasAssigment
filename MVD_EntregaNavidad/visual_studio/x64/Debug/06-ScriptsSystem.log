@@ -1,0 +1,3 @@
+﻿  EnemyAI.cpp
+e:\documentos hhd\master\opengl\mvd_entreganavidad\src\enemyai.cpp(30): warning C4101: 'yaw': variable local sin referencia
+  06-ScriptsSystem.vcxproj -> E:\Documentos HHD\Master\OpenGL\MVD_EntregaNavidad\visual_studio\..\06-ScriptsSystem.exe
